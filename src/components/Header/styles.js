@@ -41,8 +41,8 @@ export default makeStyles((theme) => ({
     width: "100%",
     [theme.breakpoints.up("md")]: { width: "20ch" },
   },
-  toolbar: {
-    display: "flex",
-    justifyContent: "space-between",
-  },
+  // toolbar: {
+  //   display: "flex",
+  //   justifyContent: "space-between",
+  // },
 }));
